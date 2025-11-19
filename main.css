@@ -19,3 +19,9 @@ footer {
 }
 
 
+p {
+  font-family: "Playwrite CZ", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100px;
+  font-style: normal;
+}
